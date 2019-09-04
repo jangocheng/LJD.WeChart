@@ -4,9 +4,9 @@ using System.Text;
 
 namespace LJD.Simple.Model
 {
-    public class loginLog
+    public class LoginLog
     {
         public DateTime time { get; set; }
-        public string openid { get; set; }
+        public string openId { get; set; }
     }
 }
